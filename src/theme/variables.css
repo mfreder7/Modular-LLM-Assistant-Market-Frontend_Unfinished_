@@ -1,2 +1,15 @@
 /* For information on how to create your own theme, please see:
 http://ionicframework.com/docs/theming/ */
+
+:root {
+  --background-color: #1e1e1e;
+  --text-color: #ffffff;
+  --input-background-color: #333333;
+  --input-text-color: #ffffff;
+  --message-background-color: #3a3a3a;
+  --message-text-color: #ffffff;
+  --border-color: #444444;
+  --primary-color: #0a84ff; /* Futuristic blue */
+  --secondary-color: #2ecc71; /* Complementary green */
+  --tertiary-color: #ff2d55; /* Accent red */
+}
